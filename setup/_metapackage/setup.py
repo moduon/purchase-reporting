@@ -11,6 +11,7 @@ setuptools.setup(
         'odoo14-addon-purchase_backorder',
         'odoo14-addon-purchase_comment_template',
         'odoo14-addon-purchase_incoming_product',
+        'odoo14-addon-purchase_requisition_blanket_order_report',
     ],
     classifiers=[
         'Programming Language :: Python',
