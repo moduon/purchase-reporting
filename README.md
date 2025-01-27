@@ -17,7 +17,11 @@ purchase-reporting
 
 [//]: # (addons)
 
-This part will be replaced when running the oca-gen-addons-table script from OCA/maintainer-tools.
+Available addons
+----------------
+addon | version | maintainers | summary
+--- | --- | --- | ---
+[purchase_comment_template](purchase_comment_template/) | 18.0.1.0.0 |  | Comments texts templates on Purchase documents
 
 [//]: # (end addons)
 
